@@ -11,3 +11,40 @@ h3 {
   float: none; /* Added */
   margin-bottom: 4em; /* Added */
 }
+
+.jumbotron {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+ul{
+  list-style: none;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+.blockquote:last-child {
+  margin-bottom: 3em;
+}
+
+.plane-icon {
+  width: 3em;
+}
+
+.blockquote {
+  padding: 1em;
+  border-radius: .5em;
+}
+
+a {
+  font-size: 1.25rem;
+  color: white;
+}
+
+a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #007bff;
+}
