@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(172, 163, 163);
+}
+
+h3 {
+  margin: 20px 0;
+}
+
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 4em; /* Added */
+}
